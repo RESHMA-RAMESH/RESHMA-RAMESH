@@ -10,6 +10,7 @@ A Full-Stack Web developer and a Technology Enthusiast from India.
 - 💖 Other than coding, I love Chess, Music and Weekends. 
 
 ---
+[![@resh_119's Holopin board](https://holopin.io/api/user/board?user=resh_119)](https://holopin.io/@resh_119)
 
 👩‍💻 My experiences with programming and technologies include
 
